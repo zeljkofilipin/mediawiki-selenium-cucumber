@@ -66,6 +66,7 @@ GEM
       ast (~> 2.2)
     powerpack (0.1.1)
     rainbow (2.1.0)
+    rake (11.3.0)
     rest-client (1.8.0)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 3.0)
@@ -102,6 +103,7 @@ PLATFORMS
 
 DEPENDENCIES
   mediawiki_selenium (~> 1.7, >= 1.7.2)
+  rake (~> 11.3)
   rspec-mocks (~> 2.99, >= 2.99.4)
   rubocop (~> 0.45.0)
   selenium-webdriver (~> 2.53, >= 2.53.4)
