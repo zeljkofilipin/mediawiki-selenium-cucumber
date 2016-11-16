@@ -7,3 +7,8 @@ Feature: User
   Scenario: Log in page
     Given I am at the Log in page
     Then Log in element should be there
+
+  Scenario: Preferences page
+    Given I am logged in
+    When I am at the Preferences page
+    Then Save element should be there
