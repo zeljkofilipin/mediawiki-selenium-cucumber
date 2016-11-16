@@ -5,5 +5,5 @@ class CreateAccountPage
 
   page_url 'Special:CreateAccount'
 
-  button(:create_account, id: 'wpCreateaccount')
+  element(:create_account, id: 'wpCreateaccount')
 end
