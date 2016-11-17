@@ -1,5 +1,5 @@
 require 'page-object'
-# Page object for Log in page
+# Page object for page that does not exist
 class DoesNotExistPage
   include PageObject
 

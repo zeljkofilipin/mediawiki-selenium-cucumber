@@ -1,5 +1,5 @@
 require 'page-object'
-# Page object for Preferences page
+# Page object for preferences page
 class PreferencesPage
   include PageObject
 

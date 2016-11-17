@@ -1,5 +1,5 @@
 require 'page-object'
-# Page object for Log in page
+# Page object for log in page
 class LoginPage
   include PageObject
 

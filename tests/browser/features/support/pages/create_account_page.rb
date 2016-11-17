@@ -1,5 +1,5 @@
 require 'page-object'
-# Page object for Create account page
+# Page object for create account page
 class CreateAccountPage
   include PageObject
 
