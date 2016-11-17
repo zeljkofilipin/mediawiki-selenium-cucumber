@@ -6,4 +6,5 @@ class MainPage
   page_url 'Main_Page'
 
   element(:edit, css: 'li#ca-edit a')
+  element(:view_history, css: 'li#ca-history a')
 end

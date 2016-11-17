@@ -7,3 +7,7 @@ Feature: Page
   Scenario: Edit
     Given I am at the main page
     Then edit element should be there
+
+  Scenario: View history
+    Given I am at the main page
+    Then view history element should be there

@@ -13,3 +13,7 @@ end
 Then(/^edit element should be there$/) do
   expect(on(MainPage).edit_element).to exist
 end
+
+Then(/^view history element should be there$/) do
+  expect(on(MainPage).view_history_element).to exist
+end
