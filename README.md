@@ -22,4 +22,4 @@ An example repository on how to implement Selenium tests in Ruby using Cucumber.
 
 - [Selenium/Ruby](https://www.mediawiki.org/wiki/Selenium/Ruby)
 
-[![Build Status](https://travis-ci.org/zeljkofilipin/selenium-mediawiki-cucumber.svg?branch=master)](https://travis-ci.org/zeljkofilipin/selenium-mediawiki-cucumber)
+[![Build Status](https://travis-ci.org/zeljkofilipin/mediawiki-selenium-cucumber.svg?branch=master)](https://travis-ci.org/zeljkofilipin/mediawiki-selenium-cucumber)
