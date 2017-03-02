@@ -1,4 +1,4 @@
-# Selenium + MediaWiki + Cucumber
+# MediaWiki + Selenium + Cucumber
 
 An example repository on how to implement Selenium tests in Ruby using Cucumber.
 
